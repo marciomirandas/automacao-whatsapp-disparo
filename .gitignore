@@ -3,3 +3,9 @@ arquivos/
 venv/
 
 cookies/
+
+build/
+
+dist/
+
+app.spec
